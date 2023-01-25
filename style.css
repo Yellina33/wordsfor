@@ -98,7 +98,7 @@ h1 {
     align-items: center;
     width: 100%;
     min-height: 100px;
-    background-color: rgba(217, 221, 246, 0.4);
+    background-color: rgba(217, 221, 246, 0.6);
     position: fixed;
     top: 0;
     overflow: hidden;
