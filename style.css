@@ -166,12 +166,6 @@ a:hover {
     line-height: 50px;
 }
 
-.card-content1 h2 {
-    color: #145387;
-    font-weight: 400;
-    line-height: 50px;
-}
-
 .block-img {
     width: 100%;
     height: auto;
@@ -398,7 +392,7 @@ ul li:nth-child(3) {
 @media screen and (max-width: 800px) {
     .card {
         display: block;
-        flex-direction: column;
+        /* flex-direction: column; */
     }
     
     .card-content {
