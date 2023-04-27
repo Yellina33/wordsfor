@@ -395,3 +395,9 @@ ul li:nth-child(3) {
 
 
 
+@media screen and (max-width: 800px) {
+    .card {
+        display: block
+    }
+    
+}
