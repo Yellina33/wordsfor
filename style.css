@@ -401,4 +401,7 @@ ul li:nth-child(3) {
         flex-direction: column;
     }
     
+    .card-content {
+        width: 100%;
+   
 }
