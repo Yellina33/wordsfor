@@ -152,7 +152,7 @@ a:hover {
 .card-content {
     justify-content: center;
     align-items: flex-end;
-    width: 300px;
+    width: 30%;
     margin-left: 20px;
     background-color: #f1f1f1;
     border-radius: 15px;
@@ -170,16 +170,6 @@ a:hover {
     color: #145387;
     font-weight: 400;
     line-height: 50px;
-}
-
-.card-content1 {
-    justify-content: center;
-    width: 400px;
-    margin-left: 20px;
-    background-color: #f1f1f1;
-    border-radius: 15px;
-    border: 1px solid #12a3d7; 
-    
 }
 
 .block-img {
