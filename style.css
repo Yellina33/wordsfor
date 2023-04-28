@@ -236,7 +236,7 @@ hr {
 .btn-read:hover {
     display: block;
     margin: 20px auto;
-    color: #fff;
+    color: #b8a5a5;
     border: 1px solid #fff;
     text-transform: uppercase;
     padding: 10px 15px;
@@ -399,3 +399,5 @@ ul li:nth-child(3) {
         width: 50%;
    
 }
+
+
